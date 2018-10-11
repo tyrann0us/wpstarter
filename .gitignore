@@ -9,3 +9,6 @@ vendor/
 website/
 couscous-theme/
 /couscous.*
+
+/phpunit.xml
+build/
